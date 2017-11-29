@@ -21,4 +21,4 @@
 
 ### 功能说明
 
-支持get，post, put, delte请求
+支持get，post, put, delete请求
