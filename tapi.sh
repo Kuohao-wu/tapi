@@ -18,5 +18,5 @@ case $1 in
     echo $requestUrl
     ;;
   config)
-    echo "requestUrl=$2" > ./config.sh
+    echo "requestUrl=$2" > "$(pwd)/tapi/config.sh"
   esac
